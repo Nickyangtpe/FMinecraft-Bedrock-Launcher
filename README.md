@@ -19,10 +19,6 @@ FMinecraft-Bedrock-Launcher 會自動替換位於 `C:\Windows\System32` 的 `Win
 - 替換系統文件可能會影響系統穩定性，請務必在使用之前備份原始文件。
 - 本啟動器涉及破解行為，使用時請遵循相關法律法規。
 
-## 參與貢獻
-
-我們歡迎社群的貢獻！如果你有任何建議或想要提交改進，請查看我們的 [貢獻指南](CONTRIBUTING.md) 來了解如何參與。
-
 ## 授權
 
 FMinecraft-Bedrock-Launcher 採用 [MIT 授權](LICENSE) 開源授權條款。
@@ -31,5 +27,5 @@ FMinecraft-Bedrock-Launcher 採用 [MIT 授權](LICENSE) 開源授權條款。
 
 如有任何問題或建議，請聯繫我們：
 
-- 電子郵件: [support@fmc-launcher.com](mailto:support@fmc-launcher.com)
+- 電子郵件: [Nick.yang.tpe@gmail.com](mailto:Nick.yang.tpe@gmail.com)
 - GitHub 問題追蹤: [issues](https://github.com/yourusername/FMinecraft-Bedrock-Launcher/issues)
