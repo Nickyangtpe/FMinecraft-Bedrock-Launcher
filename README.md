@@ -21,7 +21,7 @@ FMinecraft-Bedrock-Launcher 會自動替換位於 `C:\Windows\System32` 的 `Win
 
 ## 授權
 
-FMinecraft-Bedrock-Launcher 採用 [MIT 授權](LICENSE) 開源授權條款。
+FMinecraft-Bedrock-Launcher 採用 [Apache License 2.0](LICENSE) 開源授權條款。
 
 ## 聯繫我們
 
