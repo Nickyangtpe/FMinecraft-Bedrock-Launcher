@@ -4,6 +4,8 @@
 
 FMinecraft-Bedrock-Launcher 是一個開源的 Minecraft Bedrock 版本啟動器，旨在提供免費的 Minecraft Bedrock Edition 遊戲體驗。此啟動器通過自動替換系統中的 DLL 文件來實現破解功能，讓玩家無需付費即可遊玩遊戲。
 
+參考：https://github.com/rhuda21/mcbypass/
+
 ## 原理
 
 FMinecraft-Bedrock-Launcher 會自動替換位於 `C:\Windows\System32` 的 `Windows.ApplicationModel.Store.dll` 文件，以實現破解功能，讓 Minecraft Bedrock Edition 可以免費啟動和使用。
